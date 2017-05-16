@@ -3,16 +3,24 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="seccion_1">Sección 1</string>
-    <string name="seccion_2">Sección 2</string>
+    <string name="seccion_1">Preferencias</string>
+    <string name="seccion_2">Utiles</string>
     <string name="otras_opciones">Otras opciones</string>
     <string name="opcion_1">Opción 1</string>
     <string name="opcion_2">Opción 2</string>
-    <string name="seccion_3">Sección 3</string>
+    <string name="seccion_3">Agenda</string>
     <string name="usuario">Usuario</string>
     <string name="menu_abierto">Menu Abierto</string>
     <string name="menu_cerrado">Menu Cerrado</string>
     <string name="fragment1">Fragment 1</string>
     <string name="fragment2">Fragment 2</string>
     <string name="fragment3">Fragment 3</string>
+    <string name="context1">Item contextual 1</string>
+    <string name="context2">Item Contextual 2</string>
+    <string name="Part1">Option Menu press: Preferencias. Order: 1</string>
+    <string name="Part2">Option Menu press: Utiles. Order: 2</string>
+    <string name="Part3">Option Menu press: Agenda. Order: 3</string>
+    <string name="Part4">Option Menu press: Subitem 1 Agenda. Order: 4</string>
+    <string name="Part5">Option Menu press: Subitem 2 Agenda. Order: 5</string>
+    <string name="orden">Orden:</string>>
 </resources>
